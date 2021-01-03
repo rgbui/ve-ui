@@ -1,0 +1,7 @@
+node_modules
+dist
+dist-mobile
+build
+local
+.vscode
+docs
